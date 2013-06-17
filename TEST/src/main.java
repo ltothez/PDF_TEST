@@ -9,6 +9,7 @@ public class main {
 
 		
 		int huhu = 5555;
+		String titatest;
 	}
 
 }
